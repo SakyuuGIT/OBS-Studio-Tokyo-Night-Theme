@@ -43,7 +43,7 @@ That's it. Your OBS Studio interface should now use the Tokyo Night color palett
 
 ## Preview
 
-![OBS Studio Tokyo Night Theme](preview.png)
+![OBS Studio Tokyo Night Theme](preview2.png)
 
 ## Credits
 
