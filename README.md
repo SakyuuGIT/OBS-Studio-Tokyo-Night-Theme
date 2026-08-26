@@ -47,9 +47,9 @@ That's it. Your OBS Studio interface should now use the Tokyo Night color palett
 
 ## Credits
 
-* **Yami Default**: Original OBS Studio theme by Warchamp7.
-* **Tokyo Night**: Color palette inspiration from the Tokyo Night project.
-* This theme was created with AI assistance.
+* **Yami Default**: Original OBS Studio theme developed by [Warchamp7](https://github.com/Warchamp7).
+* **Tokyo Night**: Color palette and design inspiration from the [Tokyo Night project](https://github.com/tokyo-night).
+* This OBS Studio theme was created with AI assistance.
 
 ## Notes
 
